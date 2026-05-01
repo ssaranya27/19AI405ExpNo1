@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: karthick v N</h3>
-<h3>Register Number : 212223040086</h3>
+<h3>Name: SARANYA S N</h3>
+<h3>Register Number : 212223220101</h3>
 
 <h3>AIM:</h3>
 <br>
